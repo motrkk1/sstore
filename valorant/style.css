@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.vp-store h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7vh;
+}
+
+.valorant-points {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15em;
+    margin-top: 15vh;
+    flex-wrap: wrap;
+}
+
+.eg {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.eg img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.eg img:hover {
+    transform: scale(1.05);
+}
+
+.eg p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.us {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.us img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.us img:hover {
+    transform: scale(1.05);
+}
+
+.us p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.tr {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.tr img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.tr img:hover {
+    transform: scale(1.05);
+}
+
+.tr p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}

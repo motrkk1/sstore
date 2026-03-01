@@ -1,0 +1,205 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.mvp11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7vh;
+}
+
+.mvp-plusp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10em;
+    margin-top: 15vh;
+    flex-wrap: wrap;
+}
+
+/* 30 days */
+
+.mvpp {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.mvpp img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.mvpp img:hover {
+    transform: scale(1.1);
+}
+
+.mvpp-p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.mvpp-pp {
+    position: absolute;
+    bottom: 2em;
+    right: 1em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+/* 90 days */
+
+.mvpp1 {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.mvpp1 img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.mvpp1 img:hover {
+    transform: scale(1.1);
+}
+
+.mvpp1-p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.mvpp1-pp {
+    position: absolute;
+    bottom: 2em;
+    right: -0.8em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+/* 180 days */
+
+.mvpp2 {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.mvpp2 img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.mvpp2 img:hover {
+    transform: scale(1.1);
+}
+
+.mvpp2-p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.mvpp2-pp {
+    position: absolute;
+    bottom: 2em;
+    right: -1.2em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+/* 1 year */
+
+.mvpp3 {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.mvpp3 img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.mvpp3 img:hover {
+    transform: scale(1.1);
+}
+
+.mvpp3-p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.mvpp3-pp {
+    position: absolute;
+    bottom: 2em;
+    right: -2em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}

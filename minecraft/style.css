@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.mine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7vh;
+}
+
+.mine2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15em;
+    margin-top: 15vh;
+    flex-wrap: wrap;
+}
+
+.minecraft-accounts {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.minecraft-accounts img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.minecraft-accounts img:hover {
+    transform: scale(1.05);
+}
+
+.minecraft-accounts p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
+
+.hypixel {
+    background-color: grey;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 8em;
+    display: inline-block;
+    border-radius: 2em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.hypixel img {
+    transition-duration: 0.5s;
+    border-radius: 0.5em;
+}
+
+.hypixel img:hover {
+    transform: scale(1.05);
+}
+
+.hypixel p {
+    position: absolute;
+    bottom: 3.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    margin: 0;
+    font-size: 120%;
+    white-space: nowrap;
+}
