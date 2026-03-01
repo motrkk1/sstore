@@ -21,7 +21,7 @@
 }
 
 .minecraft-accounts {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -50,10 +50,11 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 .hypixel {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -82,4 +83,5 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }

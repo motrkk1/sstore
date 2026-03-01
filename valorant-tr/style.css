@@ -28,39 +28,45 @@
 
 .one {
     font-size: 140%;
-    background-color: grey;
+    background-color: #11284c;
     padding: 1em;
     border-radius: 0.5em;
+    color: white;
 }
 .two {
     font-size: 140%;
-    background-color: grey;
+    background-color: #11284c;
     padding: 1em;
     border-radius: 0.5em;
+    color: white;
 }
 .three {
     font-size: 140%;
-    background-color: grey;
+    background-color: #11284c;
     padding: 1em;
     border-radius: 0.5em;
+    color: white;
 }
 .four {
     font-size: 140%;
-    background-color: grey;
+    background-color: #11284c;
     padding: 1em;
     border-radius: 0.5em;
+    color: white;
 }
 .five {
     font-size: 140%;
-    background-color: grey;
+    background-color: #11284c;
     padding: 1em;
     border-radius: 0.5em;
+    color: white;
 }
 .six {
     font-size: 140%;
-    background-color: grey;
+    background-color: #11284c;
     padding: 1em;
     border-radius: 0.5em;
+    color: white;
 }
 
 @media (max-width: 600px) {

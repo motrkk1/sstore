@@ -23,7 +23,7 @@
 /* vip */
 
 .vip {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -52,6 +52,7 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 .vip-pp {
@@ -64,12 +65,13 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 /* vip+ */
 
 .vip1 {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -98,6 +100,7 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 .vip1-pp {
@@ -110,12 +113,13 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 /* mvp */
 
 .mvp {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -144,6 +148,7 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 .mvp-pp {
@@ -156,12 +161,13 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 /* mvp+ */
 
 .mvp1 {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -193,6 +199,7 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 .mvp1-pp {
@@ -205,12 +212,13 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 /* mvp++ */
 
 .mvp11 {
-    background-color: grey;
+    background-color: #11284c;
     padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
@@ -242,6 +250,7 @@
     margin: 0;
     font-size: 120%;
     white-space: nowrap;
+    color: white;
 }
 
 .mvp11-a {
@@ -259,8 +268,8 @@
     border: 2px solid rgba(0, 0, 0, .1);
     border-radius: 1em;
     backdrop-filter: blur(5px);
-    color: white;
-    transition-duration: 0.5s;
+    color: gold;
+    transition-duration: 0.2s;
     font-size: 115%;
 }
 
