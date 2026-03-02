@@ -4,6 +4,12 @@
     margin: 0;
 }
 
+body {
+    background-image: url(../assets/Untitled-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .vp-store h1 {
     display: flex;
     justify-content: center;

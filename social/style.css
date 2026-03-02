@@ -9,6 +9,11 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
+    background-image: url(../assets/Untitled-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 .icons {
